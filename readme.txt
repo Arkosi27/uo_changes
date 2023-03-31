@@ -1,3 +1,14 @@
+==Modifcations for:
+* Change classes and avoid the site breaks itself
+* Code optimization
+* Bugs Fixed
+  * Random changes when change the font family
+  * utf-8 optimized in order to recognize english characters
+  
+
+
+
+
 === Uncanny Groups for LearnDash ===
 Contributors: uncannyowl
 Tags: LearnDash, eLearning, LMS, education, learning, courseware
